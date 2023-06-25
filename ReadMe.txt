@@ -1,1 +1,0 @@
-Bot that uses computer vision to complete a tile puzzle
